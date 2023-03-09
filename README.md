@@ -4,16 +4,14 @@ A simple counter app with flutter and [Bloc](https://bloclibrary.dev/#/).
 
 ## Getting Started
 
-1. Clone this repo
-2. Run 
+1. Clone this repo.
+2. In your terminal, navigate to the project directory and run:
 ```dart
  flutter pub get 
  ```
 
-A few resources to get you started if this is your first Flutter project:
+### Architecutre
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
