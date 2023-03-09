@@ -13,6 +13,15 @@ A simple counter app with flutter and [Bloc](https://bloclibrary.dev/#/).
 ### Architecutre
 ![app architecture.](https://github.com/nonsocchi/bloc_counter/blob/master/assets/bloc_counter_architecture.png)
 
+### Project Structure
+lib
+├── counter
+│   ├── counter_logic
+│   │   ├── counter_bloc.dart
+│   │   └── counter_event.dart
+│   └── counter_page.dart
+└── main.dart
+
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
