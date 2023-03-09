@@ -1,10 +1,14 @@
 # bloc_counter
 
-A new Flutter project.
+A simple counter app with flutter and [Bloc](https://bloclibrary.dev/#/).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone this repo
+2. Run 
+```dart
+ flutter pub get 
+ ```
 
 A few resources to get you started if this is your first Flutter project:
 
