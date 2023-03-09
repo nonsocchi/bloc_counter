@@ -14,7 +14,7 @@ A simple counter app with flutter and [Bloc](https://bloclibrary.dev/#/).
 ![app architecture.](https://github.com/nonsocchi/bloc_counter/blob/master/assets/bloc_counter_architecture.png)
 
 ### Project Structure
-lib
+.
 ├── counter
 │   ├── counter_logic
 │   │   ├── counter_bloc.dart
